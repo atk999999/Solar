@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PowerRuntime.WaveSheetContent">
+    <!-- Provides a basic list of wavs to load into the game including a name to identify them, 
+	the link to the wav and how many instances of this sound effect should be loaded. 
+	Runtime things such as pitch, volume, 3d effects, etc. are done with scripting in the code -->
+    <SheetName>music</SheetName>
+    <AudioItems>
+		
+		<!-- ~~~~~~~~ MUSIC ~~~~~~~~~~~~~ -->
+	 
+	  <Item>
+        <Name>music_pause</Name>
+        <Link>AudioXACT\Music\pause</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+	  
+	  <!-- ~~~~~~~~ MENU SOUNDS ~~~~~~~~~~~~~ -->
+	  
+	  <Item>
+        <Name>menu_back</Name>
+        <Link>AudioXACT\Sounds\Menu - Back</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+	  
+	  <Item>
+        <Name>menu_rollover</Name>
+        <Link>AudioXACT\Sounds\Menu - Highlight</Link>
+        <NumInstances>4</NumInstances>
+      </Item>
+	  
+	  <Item>
+        <Name>menu_select</Name>
+        <Link>AudioXACT\Sounds\Menu - Select</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+	  
+	  <Item>
+        <Name>message_new</Name>
+        <Link>AudioXACT\Sounds\Message Get</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+      
+      <Item>
+        <Name>mission_alarm</Name>
+        <Link>AudioXACT\Sounds\Alarm</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+	  
+    </AudioItems>
+  </Asset>
+</XnaContent>

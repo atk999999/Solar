@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#080b18"><title>Solar • Vũ trụ trong tay</title><link rel="stylesheet" href="./style.css"></head>
+<body>
+<canvas id="space" aria-label="Không gian mô phỏng thiên thể"></canvas>
+<header><a class="brand" href="#" aria-label="Solar">S<span>O</span>LAR <small>WEB RECONSTRUCTION · 0.1</small></a><div class="tools"><button id="sound" aria-label="Bật âm thanh">Âm thanh: tắt</button><button id="pause">Tạm dừng</button><button id="menu">☰</button></div></header>
+<section class="hud"><div class="eyebrow">THIÊN THỂ CỦA BẠN</div><h1 id="stage">Tiểu hành tinh</h1><div class="mass"><strong id="mass">24</strong><span>KHỐI LƯỢNG</span></div><div class="meter"><i id="progress"></i></div><p id="next"></p><div class="stats"><span id="orbits"></span><span id="life"></span></div></section>
+<section class="mission"><div class="eyebrow">HÀNH TRÌNH VŨ TRỤ</div><strong id="quest"></strong><p id="questProgress"></p></section>
+<div id="toast" role="status"></div>
+<footer><span id="hint">Kéo trên màn hình để di chuyển • WASD / phím mũi tên</span><span class="badge">MÔ PHỎNG WEB • KHÔNG PHẢI BẢN GỐC 1:1</span></footer>
+<div class="actions"><button id="absorb">Hấp thụ <small>SPACE</small></button><button id="zoomOut" aria-label="Thu nhỏ">−</button><button id="zoomIn" aria-label="Phóng to">+</button></div>
+<div id="stick"><i></i></div>
+<dialog id="panel"><form method="dialog"><button class="close" aria-label="Đóng">×</button></form><div class="eyebrow">VŨ TRỤ TRONG TAY</div><h2 id="panelTitle">Một hạt bụi.<br>Cả một vũ trụ.</h2><p>Thu thập vật chất, nuôi dưỡng sự sống và lớn lên thành ngôi sao. Tránh va chạm với thiên thể lớn hơn.</p><div class="instructions"><b>01</b><span>Kéo để di chuyển. Máy tính: WASD hoặc mũi tên.</span><b>02</b><span>Đến gần vật thể nhỏ để bắt vào quỹ đạo. Nhấn Hấp thụ hoặc Space để tăng khối lượng.</span><b>03</b><span>Tiểu hành tinh → hành tinh → sao → sao neutron → hố đen → Big Bang.</span></div><button id="play" class="primary">Bắt đầu khám phá →</button><div class="menurow"><button id="save">Lưu</button><button id="export">Xuất save</button><button id="import">Nhập save</button></div><button id="restart" class="danger">Bắt đầu vũ trụ mới</button><p class="disclaimer">Bản tái dựng JavaScript từ việc phân tích APK Solar 2. Cơ chế và đồ họa được viết lại; chưa chuyển đầy đủ mã C#, nhiệm vụ và chiến đấu của bản gốc. Âm thanh trích từ APK do bạn cung cấp.</p></dialog>
+<input type="file" id="savefile" accept="application/json,.json" hidden>
+<script type="module" src="./src/main.js"></script></body></html>

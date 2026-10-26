@@ -1,0 +1,12 @@
+Đây là dự án Solar 2 Web Reconstruction. Đọc README_VI.md và CONVERSION_REPORT.md trước khi sửa.
+Mục tiêu: tiếp tục chuyển game từ APK Android MonoGame sang web. Bản hiện tại chỉ tái dựng một phần bằng JavaScript, không được nói đã port 100%.
+Giữ source hiện có, sửa từng phần nhỏ. Không tạo app mới thay thế toàn bộ. Không xóa reference, không thay tài nguyên gốc, không thêm API key hay Gemini vào gameplay.
+Chạy npm test rồi npm run build. Dev: npm run dev (0.0.0.0, PORT mặc định 3000). Output: dist.
+Ưu tiên thực hiện:
+1. Kiểm tra bản web hiện tại trong Preview, sửa lỗi runtime/input/mobile nếu có.
+2. Nếu có công cụ .NET decompiler phù hợp, decompile reference/assemblies/Solar2.Android.dll và Power.Android.dll. Ghi rõ lớp/hàm đã đọc; không đoán logic gốc từ tên ký hiệu.
+3. Giải mã XNB có nén LZX, đọc Texture2D/SpriteFont/atlas cùng định dạng custom nếu có. Không chỉ đổi đuôi xnb thành png.
+4. Lập bảng ánh xạ từng hệ thống C# sang module web, rồi port vật lý, vòng đời thiên thể, AI sự sống/chiến đấu, nhiệm vụ/boss theo từng nhóm.
+5. Đối chiếu thông số thực tế từ mã gốc, thay các ngưỡng tạm hiện có khi có bằng chứng.
+6. Giữ cảm ứng Android, pause khi mất focus, save có version, xuất/nhập save, giới hạn số entity.
+Báo cáo trung thực: đã chuyển, chưa chuyển, đã kiểm thử, chưa kiểm thử. Chưa đủ nhiệm vụ/AI/assets thì không gọi hoàn thành.

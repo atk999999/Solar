@@ -1,0 +1,847 @@
+// !!!!!!!!! SPOILER ALERT. DO NOT READ THIS FILE UNLESS YOU HAVE COMPLETED THE GAME !!!!!!!!!!!
+
+//~~~~~~~~~~~~~~~~~~ ENGLISH LANGUAGE FILE ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+// Contains all the text in the game in the format of:
+// name : value 
+// Comments designated with a line start of //
+// The \n character designates a line break.
+// Anything like {0} or {1} designates a number that will be set in code, and should be left as is. 
+
+// This game can be translated into other latin-based language (sorry, no asian languages supported at this time)
+// To use another language with the game copy this file and translate the 'value' (right side) parts.
+// Name the file "strung.[language_code].txt"    for example, French would be "strung.fr.txt"
+// If your Windows is set to that default language the game will automatically use it. 
+// Place the file next to the english file in the "Languages" folder.
+// If you have set it up correctly, the language will show up in the options screen.
+// v1.09 language file
+
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  GENERAL / MISC. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// generic menu/interface stuff
+menu_back		:	Back
+menu_okay		:	OK
+menu_confirm	:	Confirm
+menu_cancel		:	Cancel	
+menu_complete	:	Complete
+menu_incomplete	:	Incomplete
+menu_continue	:	Continue
+menu_exit		:	Exit
+menu_applyandexit	:	Apply Settings and Exit
+menu_notdemo	:	Not available in demo.
+menu_start		:	Start
+
+// message box and instructions menu items / buttons
+message_select	:	Enter - 
+message_cancel	:	Esc -
+message_selectx	:	A - 
+message_cancelx	:	B -
+message_selectt :	Tap - 
+message_cancelt	:	Tap -
+
+message_demosave		:	Progress cannot be saved in the demo version. 
+
+// missions popup assorted stuff
+missions_timeremaining	:	Time Remaining:
+missions_distancetravelled	:	Distance Travelled:
+missions_timepopup_over		:	Mission Time:
+missions_timepopup_under	:	{0} mins {1} secs
+missions_speedcycle_over	:	Speed Cycle Time:
+
+// random mission API messages
+missions_introcutscene		:	If you wish to make an apple pie from scratch, \nyou must first invent the universe. \n                                                                   - Carl Sagan
+missions_godmodeunlocked_1_1	:	God Options are now unlocked in the Options menu. 
+missions_godmodeunlocked_1_2	:	God Options are now unlocked in the Options menu. \nTo unlock Dark Matter beat the game without physics/god options!
+missions_godmodeunlocked_2		:	Need something to do? Try to get all the achievements. Some are very tough. \nSee how large you can grow a multi-star system! \nPlenty of Challenge Missions to beat! 
+missions_godmodeunlocked_2x		:	Need something to do? Try to get all the awards. Some are very tough. \nSee how large you can grow a multi-star system! \nPlenty of Challenge Missions to beat!  
+missions_godmodeunlocked_cheat	:	Try completing all the missions without physics/god options! \nThen you'll unlock dark matter in the God Options menu. 
+missions_godmodeunlocked_cheatbeaten	:	Dark Matter now unlocked in God Options.
+
+missions_bigcrunch		:	You haven't finished you know, I still have tasks for you to do. \nDo you still want to be a god like me? Prove it. Beat my missions.
+
+// Splash Screen 
+splash_pc		:	Press ENTER or START on controller
+splash_xbox 	:	Press START
+splash_tablet	:	Tap to START
+
+// ~~~~~~~~~~~~~~~~~~~~~  PAUSE MENU ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// pause menu options
+pause_return		:	Return To Game
+pause_missions		:	Missions - Story
+pause_challenge		:	Missions - Challenges
+pause_savedsystems	:	Saved Systems
+pause_basicrespawn	:	Basic Respawn
+pause_objectives	:	Achievements
+pause_objectivesx	:	Awards
+pause_purchase		:	Get Full Version
+pause_controls		:	Controls
+pause_physics		:	Physics Options
+pause_options		:	Options
+pause_exit		:	Save and Exit
+pause_save		:	Save Progress
+
+pause_stats		:	Stats:
+
+pause_godon		:	Physics/God Options are Active
+pause_darkon	:	Dark Matter is Active
+
+// credits
+pause_credits1	:	Created and Developed by:
+pause_credits2	:	Music and Sounds by:
+
+// cannot respawn; cutscene or challenge mission 
+pause_cannotrespawn		:	Cannot respawn at this time.
+
+// exit message box
+pause_areyousure	:	Are you sure you want to exit? \nYour current system will be saved.
+pause_saveandexit	:	Save and Exit
+
+pause_saveprogress	:	Progress has been saved. \nYou can now exit the game. 
+
+pause_areyouxboxnoprofile	:	You need to sign back into your account on this controller to save. \nYou can either exit without saving or sign in.
+
+pause_exittrial		:	Progress is not saved during the demo version. \nAre you sure you want to exit?
+pause_savetrial		:	Progress is not saved during the demo version. 
+pause_exitnosave	:	Exit without Saving
+
+pause_xboxtrialfail	:	You must be signed in to Xbox LIVE \nand be allowed to purchase games.
+pause_xboxsignin	:	Sign In
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  BASIC RESPAWN SCREEN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+basicrespawn_title	:	Select an Object to respawn as:
+
+// tried to respawn as a body that isn't unlocked
+basicrespawn_needunlock		:	You must play as the object ingame to unlock it.
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  CONTROLS SCREEN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+controls_title		:	Controls:
+
+// titles of the controls
+controls_movement	:	Movement:
+controls_absorb		:	Absorb Smallest Object:
+controls_asteroid	:	Absorb All Asteroids:
+controls_planet		:	Absorb Selected Planet:
+controls_toggleinterface	:	Toggle Interface:
+controls_interfaceup		:	Cycle Interface Up:
+controls_interfacedown		:	Cycle Interface Down:
+controls_abort				:	Abort Mission:
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  OPTIONS SCREEN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+options_title	:	Options:
+
+options_fullscreen	:	Fullscreen
+options_windowed	:	Windowed
+
+// options menu items
+options_resolution	:	Resolution
+options_displaymode	:	Display Mode
+options_musicvolume	:	Music Volume
+options_soundvolume	:	Effects Volume
+options_rumble		:	Controller Rumble 
+options_language	:	Language
+options_tutorials	:	Reset Tutorials
+options_clearall	:	Clear All Data
+options_clearmissions	:	Clear All Story Mission Progress
+options_god		:	God Options
+options_relative	:	Virtual Gamepad
+
+options_rumble1		:	On
+options_rumble2		:	Off
+
+options_relative0	:	None
+options_relative1	:	Left
+options_relative2	:	Right	
+
+// descriptions for menu items
+options_resolution_description	:	Automatic will set the resolution to your current monitor resolution. \nThis is the recommended setting unless you are having performance issues.
+options_displaymode_description	:
+options_musicvolume_description	:
+options_soundvolume_description	:
+options_rumble_description		:
+options_language_description	:	Choose from currently installed languages. \nYou may need to save and exit then restart the game.
+options_tutorials_description	:	Select this option if you want to replay all of the ingame tutorials.
+options_clearall_description	:	Clear all of the saved game data and restarts the game.
+options_clearmissions_description	:	Clears all progress on story missions. This does not clear things unlocked through missions. 
+options_god_description				:	Unlocked cheats.
+
+options_relative_description	:	Use a virtual gamepad instead of touch anywhere. \nSee controls for more instructions.
+
+
+// are you sure message when clearing progress
+options_clearareyousure				:	Are you sure you want to clear all game data? \nIt will be like you just started playing.
+options_clearmissionsareyousure		:	Are you sure you want to clear all mission progress? \nThis will not clear anything unlocked through missions. 
+options_cleartutorialsareyousure	:	Are you sure you want to reset the tutorials?
+
+
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  GOD MODE SCREEN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// title
+god_title	:	God Options:
+god_physics	:	Physics Options:
+
+// menu item names in god options
+
+god_gravfactor			:	Gravity Factor
+god_collisiondamage		:	Collision Damage Factor
+god_playerspeed			:	Player Speed Factor
+god_lifebuild			:	Life Build Time Factor
+god_lifeships			:	Life Extra Ships
+god_lifeturrets			:	Life Extra Turrets
+god_shipspeed			:	Ships Speed Factor
+
+god_clearboss			:	Clear Boss Mission Progress
+god_starcolor			:	Star Color Mode
+god_spawnmode			:	Instant Spawn Mode
+god_actionmode			:	Action Mode
+god_darkmatter			:	Dark Matter
+god_default				:	Reset to Default
+
+god_unlock			:	Unlocks when you first reach {0} % story mission completion.
+
+// descriptions of the god options
+god_gravfactor_description			:	Gravity Multiplier Factor. \n1 is normal gravity. 2 is double strength gravity. Negative values will repel instead of attract.
+god_collisiondamage_description		:	Collision Damage Multiplier Factor. \n1 is normal damage. 2 is double damage in collisions. 0 is no damage during collisions.
+god_playerspeed_description			:	Player Speed Multiplier Factor. \n1 is normal player speed. 2 is double player speed.
+god_lifebuild_description			:	Life Build Time Multiplier Factor. \n1 is normal build time. 0 is no build times (instant).
+god_lifeships_description			:	Extra Ship Slots. \nAllows life to build extra ships.
+god_lifeturrets_description			:	Extra Turret Slots. \nAllows life to build extra turrets.
+god_shipspeed_description			:	Ship Speed Factor. \n1 is normal speed. 2 is double speed.
+
+god_clearboss_description			:	Clear progress on the boss mission so you can replay it. 
+god_default_description				:	Resets all the variables to their default state.
+god_starcolor_description			:	Graphical options for stars.
+god_spawnmode_description			:	Instantly spawn objects near you with the \n'Z', 'C', 'V' and 'B' keys. 
+god_spawnmode_description2			:	Instantly spawn objects near you with the \n'Z', 'X', 'C', 'V' and 'B' keys. 
+god_spawnmode_descriptionx			:	Instantly spawn objects near you with the DPad.
+god_darkmatter_description			:	Select to respawn as a dark matter asteroid and enter a dangerous new universe. 
+god_actionmode_description			:	'Absorb' is normal action. \n'Fire Outwards' shoots orbiting things when absorb pressed. 
+
+// message box for default	
+god_defaultareyousure		: 	Are you sure you want to reset all the values?
+god_darkmatterareyousure	:	Are you sure you want to spawn as a dark matter asteroid? \nYou will lose your current system.
+god_clearbossareyousure		:	Are you sure you want to clear progress on the boss mission? \nGod mode will remain unlocked.
+
+// star color options
+god_starcolor0	:	Normal
+god_starcolor1	:	Cycling Slow
+god_starcolor2	:	Cycling Fast
+god_starcolor3	:	On Speed
+
+// spawn mode options
+god_spawnmode0	:	Off
+god_spawnmode1	:	Key Press
+god_spawnmode2	:	Key Down
+god_spawnmode3	:	Key Press Shoot
+god_spawnmode4	:	Key Down Shoot
+
+// action mode options
+god_actionmode0		:	Absorb
+god_actionmode1		:	Fire Outwards
+
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  OBJECTIVES SCREEN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// instructions on the objectives screen
+objectivesscreen_instructions	:	Achievements are passive and can be completed in your own time.
+objectivesscreen_instructionsx	:	Awards are passive and can be completed in your own time.
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  SYSTEM SLOT SCREEN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+slots_title		:	Saved Systems:
+slots_description	:	You can save your current system and respawn later. \nYour current system is saved and loaded automatically when you quit and reload the game.
+
+// misc. slot names that don't fall under interface object names
+slots_empty		:	Empty
+slots_planet	:	Planet
+slots_planets	:	Planets
+slots_stars		:	Stars
+slots_asteroid	:	Asteroid
+slots_asteroids	:	Asteroids
+
+slots_savecurrent	:	Save Current System
+slots_respawn		:	Respawn as this System
+
+// message box when attempting to save with no ingame system, usually obtainable if player is dead and currently respawning
+slots_nosystemtosave	:	You have no system ingame to save!
+
+// message box when overriding a slot
+slots_override		:	Are you sure you want to override this slot? \nYou can't undo this change.
+
+// message box when trying to load an empty slot
+slots_loadempty		:	You need to save a system into this slot first!
+
+// message box when trying to save a system during a challenge
+slots_challenge		:	You cannot save a system during a challenge mission!
+
+
+
+// ~~~~~~~~~~~~~~~~~~~~~ MISSIONS SCREEN ~~~~~~~~~~~~~~~~~~~~~~~~
+
+// are the orders of these correctly synced up with the trees in the MissionAPI and external mission trees? and the 
+
+missionscreen_title			:	Story Missions Progress:
+missionscreen_description	:	Play missions by following mission arrows ingame. \nSelect a mission here to clear all progress and replay it. \nComplete without God/Physics Options for green completion!
+
+missionscreen_asteroid_title	:	Asteroid 
+missionscreen_planet_title		:	Planet 
+missionscreen_star_title		:	Star 
+
+
+missionscreen_asteroidtree1		:	Assassin
+missionscreen_asteroidtree2		:	Fun and Games
+missionscreen_asteroidtree3		:	Extinction
+missionscreen_asteroidtree4		:	Best Friend
+
+missionscreen_planettree1		:	Nomad Love
+missionscreen_planettree2		:	Experiment
+missionscreen_planettree3		:	Fine Art
+missionscreen_planettree4		:	Concert
+
+missionscreen_startree1			:	Duel
+missionscreen_startree2			:	Invaders
+missionscreen_startree3			:	Brethren
+missionscreen_startree4			:	Heist
+
+missionscreen_areyousure		:	Are you sure you want to clear progress for this mission?  
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  Ingame Interfaces ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+// object names
+planet_small 	:	Small Planet
+planet_life		:	Life Planet
+star_small		: 	Small Star
+star_medium		: 	Medium Star
+star_large		: 	Large Star		
+star_neutron		:	Neutron Star
+asteroid 		: 	Asteroid
+black_hole		: 	Black Hole
+
+// elements of the left interface
+interface_mass		: 	Mass:
+interface_progress 	: 	Progress:
+interface_shield 	: 	Shield:
+interface_evolution	: 	Evolution:
+interface_xp		: 	Exp:
+interface_kills		:	Kills:
+interface_planets 	: 	Planets:
+interface_to		:	To 
+
+interface_missionapi_presscontinue_pc		:	Press ENTER to continue
+interface_missionapi_presscontinue_xbox		:	Press X to continue
+interface_missionapi_presscontinue_tablet	:	Tap text to continue
+
+interface_missionapi_yesorno_pc		:	Y: OK     N: Cancel
+interface_missionapi_yesorno_xbox	:	X: OK     Y: Cancel
+
+interface_menu 		: 	Menu
+interface_showinterface	:	Show Interface
+interface_hideinterface	:	Hide Interface
+interface_abort		: 	Abort Mission
+
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  Missions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// tutorials and demo missions
+
+mission_intro_message1		:	Welcome to the Universe.
+mission_intro_message2		:	First things first, a tutorial. \nUse the ARROW KEYS or WASD to move.
+mission_intro_message2x		:	First things first, a tutorial. \nUse the LEFT THUMBSTICK to move.
+mission_intro_message2t		:	First things first, a tutorial. Touch the screen and hold to move. \nIn the Menu > Options you can select a Virtual Gamepad to use if you prefer.
+
+mission_intro_message4		:	Press \ or 'I' to toggle the interface and monitor your progress.
+mission_intro_message4x		:	Press LEFT TRIGGER to toggle the interface and monitor your progress. 
+mission_intro_message4t		:	Tap the 'Show/Hide Interface' button above to monitor your progress.
+
+mission_intro_message5		:	Press ESC to pause and bring up the menu. Some useful things there.
+mission_intro_message5x		:	Press START to pause and bring up the menu. Some useful things there.
+mission_intro_message5t		:	Tap the 'Menu' button above to pause the game and bring up the game menu. \nYou can respawn to a different object in the menu.
+
+mission_intro_message3		:	Want to grow? Try smashing hard into other asteroids. \nDo it now, I'll wait.
+mission_intro_message6		:	I have many missions for you to do for me. \nJust follow the arrows while the interface is visible.
+	
+mission_intro_message7		:	You can abort a mission with BACKSPACE/DELETE. 
+mission_intro_message7x		:	You can abort a mission with BACK. 
+mission_intro_message7t		:	To abort a mission you are currently in, tap the 'Abort Mission' button above. \nYou can also abort tutorials, but I don't recommend it!
+
+mission_intro_message8		:	That should be all the info you need for now! \nFeel free to explore, grow or do my missions. \nBeat all my missions and I'll have a reward for you.
+mission_intro_demo1			:	If you were playing the full version I'd have missions for you. \nOh well... I'll just sit here twiddling my thumbs... 
+mission_intro_demo2			:	twiddle twiddle \nFeel free to explore around and grow though. 
+
+mission_trial_message1		:	The demo version is okay.... if you like that sort of thing. \nI'm sure you don't though, you're too handsome for that. 
+mission_trial_message2		:	New polls are in! Cool people have the full version. \nAre you cool? You could be.
+mission_trial_message3		:	Demo demo demo demo demo demo demo demo demo demo. \nStill doesn't feel right, no matter how much I say it.
+mission_trial_message4		:	The full version has 150% more awesome. \nHow can you live knowing you aren't fully awesome?
+mission_trial_message5		:	Fine then, be that way. \nI'd love you forever if you got the full version, but no... \n... Meanie.
+mission_trial_message6		:	:(
+mission_trial_triedlevelup	:	Sorry, you can't grow above a blue star in the demo. \nI'd fix it for you, but I'm far too underpaid...  
+
+
+mission_introplanet_message1	:	Planets will lose mass if they collide with things. \nTo grow planets they need to absorb orbiting asteroids.
+mission_introplanet_message2	:	Move alongside asteroids to bring them into orbit. \nPress SPACE BAR or 'K' to absorb the smallest. \nPress CTRL or 'L' to absorb them all at once. 
+mission_introplanet_message2x	:	Move alongside asteroids to bring them into orbit. \nPress A to absorb the smallest. \nPress B to absorb them all at once. 
+mission_introplanet_message2t	:	Move alongside asteroids to bring them into orbit. \nTap the planet to absorb all asteroids into it.
+
+mission_introlife_message1	:	Life grows on large enough planets. \nHowever you can't control it, it'll just do its own thing.
+mission_introlife_message2	:	Nuture it and grow it and you'll find it's a helpful ally. \nSome times though it'll just be a pest. 
+
+mission_introstar_message1	:	Move across a planet to pull it into orbit. Takes a bit of practice. \nPress SPACE BAR or 'K' to absorb the smallest object in your system. 	
+mission_introstar_message1x	:	Move across a planet to pull it into orbit. Takes a bit of practice. \nPress A to absorb the smallest object in your system. 
+mission_introstar_message1t	:	Move across a planet to pull it into orbit. Takes a bit of practice. \nDrag a planet into your star to absorb it.
+
+mission_introstar_message2	:	Press CTRL or 'L' to absorb all the asteroids in your system. \nThat way you won't accidentally absorb a planet.
+mission_introstar_message2x	:	Press B to absorb all the asteroids in your system. \nThat way you won't accidentally absorb a planet.
+mission_introstar_message2t	:	Tap your star to absorb all asteroids in your system. 
+mission_introstar_message3	:	Use [ and ] or 'Y' and 'U' to cycle through your system in the interface. \nPress SHIFT or 'J' to absorb the currently selected planet.
+mission_introstar_message3x	:	Use LEFT and RIGHT BUMPER to cycle through your system in the interface. \nPress Y to absorb the currently selected planet.
+mission_introstar_message3t	:	Tap a planet to select it in the interface. 
+
+mission_introrespawn_message1	: 	If you are destroyed during a mission I'll respawn you to how you were \nwhen you started the mission. I'm nice like that. 
+
+mission_introsaved_message1		:	That's a nice system you got there. \nBe a shame if anything were to happen to it...
+mission_introsaved_message2		:	You should pause and go to "Saved Systems" in the menu. \nThere you can save and reload systems any time! Neat!
+
+mission_introblackhole_message1		:	The only thing that can defeat a black hole is an even bigger black hole! \nBlack holes larger than you will be notified with red arrows.
+
+
+
+// asteroid tree 1 :  Assassin
+
+mission_assassin1_message1	:	I need you to do a bit of dirty work for me. \nSome rogue ships need to be brought down. Here's the first one.
+mission_assassin1_success	:	Good, good. I'll be in touch. 
+mission_assassin1_dead		:	Don't worry, I won't punish you for that. \nJust get back in there and finish the job. \nYou may not be able to kill it directly.
+
+mission_assassin2_message1	:	You may need to get a bit more creative this time. \nDestroy this ship any way you can.   
+mission_assassin2_success	:	Great work. I think you're ready for the big leagues.
+mission_assassin2_dead		:	You may need to lure this ship into danger such as enemy ships. \nGet back in there!
+
+mission_assassin3_message1	:	This is the hard one. Use what you have learned. \nDestroy this miserable little ship.  
+mission_assassin3_success	:	Excellent, you have done well. \nBut you have outlived your usefulness here. 
+mission_assassin3_dead		:	Very unprofessional. But I am a patient individual. \nGet back in there and kill that ship.
+
+// asteroid tree 2 :  Fun and Games
+
+mission_missileavoider1_message1	:	I've thought up a fun little game for you to play. \nIt's called "don't die when I spawn missiles either side of you in a few seconds". 
+mission_missileavoider1_success		:	That was fun wasn't it!
+mission_missileavoider1_fail		:	No no no, that's not how you play!
+mission_missileavoider1_popup		:	Missiles Left:
+
+mission_missileavoider2_message1	:	So, that was fun with a few missiles to avoid. \nSo in theory, it'll be HEAPS more fun with HEAPS more missiles! \nLets try. 
+mission_missileavoider2_success		:	Great! I'll think up how to make it even more fun.
+mission_missileavoider2_fail		:	Well that was heaps more fun for me at least.
+
+mission_stardodger_message1	:	Bigger is better, we all know that. \nSo instead of throwing missiles at you, I'll throw stars at you! \nFlawless logic. 
+mission_stardodger_success	:	Well, until I figure out how to throw universes at you, I think we're done here.
+mission_stardodger_fail		:	Most fun ever.
+
+// asteroid tree 3 :  Extinction 
+
+mission_kamikaze1_msg1_1	:	Oh god, the dinosaurs on that planet have discovered space travel. \nDinosaurs in space? Yeah, we're screwed. 
+mission_kamikaze1_msg1_2	:	But wait, there is hope! Their shields are vulnerable to asteroids! \nCrash into that planet and save the universe! Timing is everything.
+mission_kamikaze1_msg2_1	:	Heh, looks like they weren't so tough after all. \nBut oh no, another dinosaur planet! Quick, crash into it!
+mission_kamikaze1_success	:	The universe is safe once again. \nOn behalf of the 10 quadrillion life forms that live here, thank you. 
+mission_kamikaze1_dead		:	This mission is too important to punish you for death! \nNow get in there and crash into that planet! Timing is everything.
+
+mission_kamikaze2_msg1_1	:	It turns out the dinosaur planet you destroyed before was just a scout. \nWe have now located the dinosaur home system. 
+mission_kamikaze2_msg1_2	:	Head over to the forward command post. \nI'll have more instructions for you when you get there. 
+mission_kamikaze2_msg2_1	:	I'll send in the troops to distract the enemy. \nUse our secret weapon, a dark matter asteroid, to destroy the system.  
+mission_kamikaze2_msg2_2	:	Be careful, it will destroy anything near it when it is destroyed. \nDestroy the dinosaurs, then return to base. 
+mission_kamikaze2_msg3_1	:	That's it! Now, back to the command post!
+mission_kamikaze2_success	:	It's over, it's finally over. \nNever will the dinosaurs terrorize asteroid kind again. 
+mission_kamikaze2_dead		:	This mission is too important to tolerate death. \nCome back when you are ready. 
+
+// asteroid tree 4 :  Best Friend
+
+mission_bestfriend_message1	:	Your bestest friend asteroid in the whole wide world is back in town! \nBut they need your help!
+mission_bestfriend_message2	:	Help your friend become a planet. \nIt's the least you can do, after all they've done for you in the past. 
+mission_bestfriend_success	:	You are a true friend. 
+mission_bestfriend_dead		:	You've let your bestest friend down. \nBut worse, you've let yourself down...
+mission_bestfriend_fail2	:	They trusted you and that is how you repay them... \nYou sir are a monster.
+mission_bestfriend_popup	:	Best Friend Mass:
+
+
+// planet tree 1 :  Nomad Love
+
+mission_xenosplanet1_message1	:	Looks like a group of those pesky white nomads are after you. \nDefend yourself!
+mission_xenosplanet1_success	:	You have such sexy beaches. \nNo wonder they want to 'settle' on you... 
+mission_xenosplanet1_fail		:	Looks like they're too rough for you!
+
+mission_xenosplanet2_message1	:	Looks like those ships didn't get the message before. \nWatch out!
+mission_xenosplanet2_success	:	Look at you, flaunting your huge... mountains. \nThey can't help it!
+mission_xenosplanet2_fail		:	More self-defense classes for you I think!
+
+mission_xenosplanet3_message1	:	Uh oh, those ships are making one last try! \nMake it known that you're already taken!
+mission_xenosplanet3_success	:	You're a strong independent planet in a star's world! \nNo one's gonna get you down! Well done!
+mission_xenosplanet3_fail		:	Annnnd... now you're pregnant. \n... Wait, what?
+
+// planet tree 2 :  Experiment
+
+mission_duelplanet1_message1	:	Here is a planet full of skunks. \nI need you to exterminate it. 
+mission_duelplanet1_success		:	And they're dead. \nWhat if I told you that there were no skunks, just cute kitties? \nWould you have still killed them?
+mission_duelplanet1_fail		:	Oh boy, their stench really got to you.
+mission_duelplanet1_run			:	No need to run, they don't smell that bad.
+
+mission_duelplanet2_message1	:	Here's a cute kitty star system. But are they really? \nYou have a choice, destroy the planets or run away. 
+mission_duelplanet2_msgdestroy	:	Did you hear that? What was that? \nSounded like a foul, disgusting skunk dying. 
+mission_duelplanet2_success		:	Can you see what the life actually is? I can't. \nIt's whatever you want it to be I guess, you can never find out at this scale. \nExperiment passed.
+mission_duelplanet2_fail		:	Experimental Findings: Inconclusive.
+mission_duelplanet2_save		:	You have saved them! \nWell done, you passed the test. 
+
+
+// planet tree 3 :  Fine Art
+
+mission_pruning1_message1		:	This solar system sculpture is over 150 trillion years old. \nIt is a divine example of neo-cosmological design.
+mission_pruning1_message2		:	Clear all the dirty asteroid moons from this piece. \nBut do not touch anything else, not even slightly.
+mission_pruning1_success		:	Ahh, a priceless piece restored to perfection. \nThe eyes of many will thank you. 
+mission_pruning1_fail			:	Now is not the time for your "suicide" performance art!
+mission_pruning1_fail_destroyed	:	How could you? Do you have any idea what the restoration bill will be?
+
+mission_orbitfixer_message1		:	I accidentally set up this avant-garde piece wrong. \nAll the orbits need to be going anti-clockwise! Please fix it! \nNo punishment for killing yourself. 
+mission_orbitfixer_success		:	Interactive art at its finest. \nThank you for participating.
+mission_orbitfixer_fail			:	The world has lost its finest beauty at the hands of an oaf.
+
+mission_pruning2_message1		:	Sigh, some philistine lifeforms are at it again. \nThey have taken residence in one of my finest sculptures.
+mission_pruning2_message2		:	Quickly, reduce the mass on those planets so no life can live there! \nBut don't destroy or lose anything! This art is irreplaceable!
+mission_pruning2_success		:	Ah, simply divine, the work of the gods!
+mission_pruning2_fail			:	How droll. 
+mission_pruning2_fail2			:	You're one of them aren't you! Fiend! \nAway with you!
+
+// planet tree 4 :  Concert
+
+mission_untouchableplanet_message1	:	Good news dude, I've found an audition for you!
+mission_untouchableplanet_message2	:	But be careful, don't touch anything or your equipment will break! \nDon't worry about ships though, those scorch marks clean easy.
+mission_untouchableplanet_success	:	Alright! You got the gig! You're going to be.... the stage! \nYeah, I know, not the best job, but oh well, better than nothing.
+mission_untouchableplanet_fail		:	Come on, we can't present you like that!
+
+mission_planetdodger_message1	:	Right! All is ready, finish reading this message and start the show! \nWatch out for crazy fans though, they might want to get on the stage!
+mission_planetdodger_success	:	Man, that was so awesome. What a great show. \nNice work.
+mission_planetdodger_fail		:	Oh come on, it was just getting good! It's ruined now...
+
+
+// star tree 1 :  Duel
+
+mission_duelstar2_message1	:	Okay kid, think you can be the champ? \nTake down this star system. Lets see what you can do.
+mission_duelstar2_success	:	You have your first victory. But don't get cocky, long road ahead.
+mission_duelstar2_fail		:	That's what I thought.
+mission_duelstar2_run		:	You'll never become the champ by running kid. 
+
+mission_duelstar3_message1	:	Time to go pro, here's your first professional bout. \nMake me proud kid.
+mission_duelstar3_success	:	Well, you've nearly topped the charts in your weight division. \nNearly...
+mission_duelstar3_fail		:	Eh, don't worry about it kid. \nNo one can see your failure in the black.
+mission_duelstar3_run		:	Yeah, go on, keep running... coward.
+
+mission_duelstar4_message1	:	Well kid, this is it. Fighting the champion. \nYou think you got what it takes?
+mission_duelstar4_success	:	All hail the new champion!
+mission_duelstar4_fail		:	You were never gonna win kid. Glad I put money on the other guy.
+mission_duelstar4_run		:	You are a disgrace to the sport. \nWinners don't run.
+
+// star tree 2 :  Invaders
+
+mission_xenosstar1_message1	:	Watch out, ALIENS!!!!!!!
+mission_xenosstar1_success	:	Phew, that was close. Are they even aliens? I dunno.
+mission_xenosstar1_fail		:	They got you.
+
+mission_xenosstar2_message1	:	More aliens! They're probably after your resources!
+mission_xenosstar2_success	:	Mission Accomplished. 
+mission_xenosstar2_fail		:	Looks like those missiles got to you.
+
+mission_xenosstar3_message1	:	Wait, the war isn't over! Here they come again!
+mission_xenosstar3_success	:	Well, all the aliens are dead. Is that what peace is? \nOh well, whatever works. 
+mission_xenosstar3_fail		:	You give in far too easily.
+
+// star tree 3 :  Brethren
+
+mission_lifeprotector1_msg1_1		:	You wish to join the Brethren of the Holy Hole? \nYour first task is that of the missionary. 
+mission_lifeprotector1_msg1_2		:	Convert this small planet by showing you can protect it. \nGo find it now. 
+mission_lifeprotector1_msg2_1		:	Protect that planet, brother star! \nShow it why it should trust you!
+mission_lifeprotector1_success		:	You have shown why your way is the righteous way. \nMany a planet will flock to you!
+mission_lifeprotector1_fail			:	That is not how you show strength, brother...
+mission_lifeprotector1_deadplanet	:	How can you be trusted with followers if you cannot protect just one? 
+
+mission_untouchablestar_msg1_1		:	You will need to have at least 4 planet followers before you can start this mission. \nCollect them now or abort.
+mission_untouchablestar_msg2_1		:	Your next test brother star, is that of the pilgrimage. \nYou must travel to far off places and protect your followers. 
+mission_untouchablestar_msg2_2		:	Don't let any asteroids, planets or stars collide with your system. \nIf you ever have less than 4 planet followers, you will fail.
+mission_untouchablestar_success		:	You have protected your followers and made it to the destination. \nYou have done well brother.
+mission_untouchablestar_success10	:	You managed to protect 10 followers! Remarkable! \nThe holy hole has rewarded you by blessing your followers.
+mission_untouchablestar_fail		:	You must protect your followers brother, do not let harm come to them!
+mission_untouchablestar_failmany	:	Do not attempt to protect more followers than you are able! \nYou are not strong enough to protect so many!
+mission_untouchablestar_lostplanet	:	You need at least 4 followers to complete this mission!
+
+mission_stripperstar_message1	:	You have shown yourself to be worthy. You may now meet the holy hole. \nHonor it by feeding it 6 of your followers. \nYou may need to convert more.
+mission_stripperstar_success	:	Your sacrifices have been accepted. \nYou have passed all the tests, brother star. Welcome.  		
+mission_stripperstar_fail		:	You dare fail in front of your god? \nFor shame...
+mission_stripperstar_fail_hole	:	........................................................... \n............................................................ \n..............................................................
+mission_stripperstar_fail_suck 	:	Do not get too close to our god! His power will consume you!
+mission_stripperstar_popup		:	Sacrifices:
+
+// star tree 4 :  Heist
+
+mission_planetstealer1_msg1_1		:	I'm planning a big heist and I need you to get something for me. \nA guard has a security swipe card planet that we need. 
+mission_planetstealer1_msg1_2		:	You'll need to take the swipe card planet quickly. \nAs soon as you take it they'll send in backup.
+mission_planetstealer1_msg2_1		:	Yes! Now quickly bring it to our scanning facility!
+mission_planetstealer1_msg3_1		:	Well, you've destroyed all the security. \nNow hurry up!
+mission_planetstealer1_success		:	Great work, we have what we needed. \nWe'll be in touch.
+mission_planetstealer1_fail_dead	:	Oh well, at least replacing you will be easy. 
+mission_planetstealer1_fail_swipe	:	You see that thing that you did just there... \nDon't do it again... 
+mission_planetstealer1_fail_lost	:	Be careful with it! You must have it in orbit! 
+mission_planetstealer1_fail_lostcom	:	Where is it? You don't have it.... \nLook, just get another swipe card later... 
+
+mission_planetstealer2_msg1_1		:	That swipe card planet has given us access to the security center. \nWe will need those passwords and instructions to get any further.
+mission_planetstealer2_msg1_2		:	Planets orbiting stars around here all have some sort of security mainframe. \nGet any 3 stolen planets in orbit and we'll have all the data we need. 
+mission_planetstealer2_success		:	Excellent, that's what we needed. The team is all clear to go. \nWe'll need you again soon when we need to escape. 
+mission_planetstealer2_fail_dead	:	You've let the team down.
+mission_planetstealer2_popup		:	Stolen Planets:
+
+mission_getaway_message1	:	Target has been successfully secured, but this place is alarmed. \nThe police will get here fast, so you'll need to evade them. \nDon't get lost or destroyed!
+mission_getaway_success		:	That's it! We've escaped!! \nWE DID IT DUDE!!!! WE DID IT!!!!!!
+mission_getaway_fail		:	Great.... we've been caught and arrested.... \nIn a few billion years when we've served our jail time we'll try again... 
+mission_getaway_offroad		:	You've evaded them, I guess, but now we're totally lost. \n.........
+
+
+// final boss
+
+mission_finalbossmessage_message1	:	Well bugger me, you've done all my tasks. 
+mission_finalbossmessage_message2	:	As a reward I can give you special god powers! 
+mission_finalbossmessage_message3	:	Just step on over to my office and I'll sort you out.
+mission_finalbossmessage_message4	:	You'll need to be a star first though. \nOnly works for stars.  
+
+mission_finalboss_msg1_1		:	Yeah.... Turns out giving you special god powers is a lot of paperwork...... \nInstead I'll just destroy you. Easier for us both I'd say.
+mission_finalboss_msg2_1		:	Ha, you won't get anywhere doing that!
+mission_finalboss_msg2_2		:	Pfft, I didn't even need that star. It was holding me back.
+mission_finalboss_msg2_3		:	sif
+mission_finalboss_msg2_4		:	Hey, look over there! Squirrel nuggets!
+mission_finalboss_msg2_5		:	Stop that!
+mission_finalboss_msg2_6		:	Uh oh.
+mission_finalboss_fail			:	Sorry, my office isn't open to the dead. 
+mission_finalboss_fail2			:	Running away scared are we? Ha ha ha ha. 
+mission_finalboss_abort			:	Lame.
+mission_finalboss_cheat			:	No cheating!
+
+
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  CHALLENGE SCREENS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+challenges_title			:	Challenge Missions:
+challenges_secondtitle		:	Previous Challenge:
+
+challenges_asteroid			:	Asteroid Challenges
+challenges_planet			:	Planet Challenges
+challenges_star				:	Star Challenges
+challenges_multistar		:	Multi-Star Challenges
+challenges_blackhole		:	Black Hole Challenges
+challenges_god				:	God Challenges
+challenges_dark				:	???? Challenges
+
+challenges_asteroid_lock		:	You need to have played as an asteroid first.
+challenges_planet_lock			:	You need to have played as a planet first.
+challenges_star_lock			:	You need to have played as a star first.
+challenges_multistar_lock		:	You need to have played as a multi-star first.
+challenges_blackhole_lock		:	You need to have played as a black hole first.
+challenges_god_lock				:	You need to unlock god options first.
+challenges_dark_lock			:	You need to beat the story missions without god or physics options first.
+
+challenges_asteroid_title		:	Asteroid Challenges:
+challenges_planet_title			:	Planet Challenges:
+challenges_star_title			:	Star Challenges:
+challenges_multistar_title		:	Multi-Star Challenges:
+challenges_blackhole_title		:	Black Hole Challenges:
+challenges_god_title			:	God Challenges:
+challenges_dark_title			:	Dark Matter Challenges:
+
+challenges_description		:	Challenges are special scenarios with custom starting systems. \nYou will respawn back as your original system when done. \nPhysics and God Options will be ignored.
+
+// on the selection screen popup
+challenges_easy			:	Easy:
+challenges_medium		:	Medium:
+challenges_hard			:	Hard:
+challenges_best			:	Best:
+challenges_incomplete	:	Incomplete
+
+// various popup messages
+challenges_popup					:	\nAre you sure you want to start this challenge?
+challenges_alreadyinmission			:	You are already playing a mission! \nFinish or abort it first! (See 'Controls').
+challenges_denied					:	Cannot play challenge missions at this time.
+challenges_triedtosetphysicspopup	:	Cannot adjust physics options during a Challenge Mission.
+
+// latest box, previously played
+challenges_newhighscore		:	New High Score!
+challenges_latestscore		:	Latest Score:
+challenges_latestfail		:	Fail
+
+// messages for all challenge missions ingame
+challenges_abort			:	Challenge mission aborted. \nRespawning to original player state.
+challenges_respawn			:	Manual respawn activated. \Challenge mission aborted.
+challenges_destroyed		:	Player destroyed. Mission failed.
+challenges_controlchange	:	No cheating! Stay as the object you started as.
+challenges_pass				:	Challenge mission passed!
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  CHALLENGES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+challenge_units_hits		:	Hits
+challenge_units_stolen		:	Stolen
+challenge_units_time		:	Time
+challenge_units_timeleft	:	Time Left
+challenge_units_kills		:	Kills
+challenge_units_damage		:	Damage
+challenge_units_collisions	:	Collisions
+challenge_units_points		:	Points
+
+challenge_cantleavecircle				:	You can't leave the circle! Mission failed.
+
+
+challenge_concertencore_name			:	Concert Encore
+challenge_concertencore_description		:	The fans demand an encore! Try and take as few hits as possible!
+challenge_concertencore_unlock			:	Beat the story mission 'Concert' to unlock this challenge!
+
+challenge_planetsurvival_name			:	Planet Survival
+challenge_planetsurvival_description	:	Get as many nomad kills as you can in 60 seconds!
+
+challenge_stayyoung_name				:	Stay Young
+challenge_stayyoung_description			:	Don't grow into a planet for as long as possible! \nDon't leave the circle!
+
+challenge_planetstealer_name			:	Planet Stealer
+challenge_planetstealer_description		:	Explore and steal as many planets as you can from other stars. \nAs soon as you lose a stolen planet, challenge over. \nNo collision damage. 
+
+challenge_getawayagain_name				:	Getaway Again
+challenge_getawayagain_description		:	Getaway time again! Try to take as little damage as possible!
+challenge_getawayagain_unlock			:	Beat the story mission 'Heist' to unlock this challenge!
+
+challenge_darkdodger_name				:	Dark Dodger
+challenge_darkdodger_description		:	Avoid the dark matter asteroids for as long as possible. \nDon't leave the circle!
+
+challenge_atom_name						:	Atom
+challenge_atom_description				:	Knock the red planets out of the circle. \nKeep the blue planets in the circle. \nNo collision damage.
+challenge_atom_fail						:	Don't let the blue planet out of the circle!
+
+challenge_slingshot_name				:	Slingshot
+challenge_slingshot_description			:	Travel outwards through a sea of black holes. 
+
+challenge_starduel_name					:	Chaos Duel
+challenge_starduel_description			:	A duel of epic proportions. \nDestroy the opposing system in the fastest possible time.
+
+challenge_geometry_name					:	Zombie Geometry
+challenge_geometry_description			:	Survive as long as you can.
+
+challenge_snowfight_name				:	Snowball Fight
+challenge_snowfight_description			:	Gain a point by hitting the enemy star with an ice planet. \nLose a point if you get hit by an ice planet! \nFinishes when either star loses all their planets.
+challenge_snowfight_run					:	Don't run away!
+challenge_snowfight_destroy				:	That's just not sporting now is it.
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  Objectives ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+// objective description size               :	Get to the top of your Friends Leaderboard while having at least 3 Steam Friends with a highscore in Swarm Arena
+// test										:	
+
+objective_supremacy_name					:	Supremacy
+objective_supremacy_description				:	As a star have an orbiting life planet with 100 kills.
+
+objective_asteroidnursery_name				:	Asteroid Nursery
+objective_asteroidnursery_description		:	Have 15 asteroid moons around your planet.
+
+objective_bigcrunch_name					:	Big Crunch
+objective_bigcrunch_description				:	Grow so large you absorb the whole universe.
+
+objective_betrayal_name						:	Betrayal
+objective_betrayal_description				:	Grow to a black hole from a multi star system.
+
+objective_entity_name						:	The Entity
+objective_entity_description				:	What is the entity?
+
+objective_superclock_name					:	Super Clock
+objective_superclock_description			:	Get 10 planets in your system orbiting clockwise.
+
+objective_overcrowding_name					:	Overcrowding
+objective_overcrowding_description			:	Get the maximum possible life in your system.
+
+objective_elite_name						:	Elite
+objective_elite_description					:	Make a 6 star system.
+
+objective_speedcycle_name					:	Speed Cycle
+objective_speedcycle_description			:	Go from Big Bang to Big Crunch in under 20 minutes. No menu respawning. 
+
+objective_flyingblind_name					:	Flying Blind
+objective_flyingblind_description			:	Go from a small black hole (<150k mass) to Big Crunch without the interface visible. 
+
+objective_gentle_name						:	Gentle But Firm
+objective_gentle_description				:	Complete the 2nd part of the "Fine Art" mission without dying and without evolved life on your planet.  
+
+objective_ninja_name						:	Ninja
+objective_ninja_description					:	Complete each of the "Assassin" mission parts without dying.
+
+objective_igotthis_name						:	I Got This
+objective_igotthis_description				:	Kill all the attacking ships in the first part of the "Heist" mission before completing it.
+
+objective_hoboStar_name						:	Hobo Star
+objective_hoboStar_description				:	Start the 3rd part of the "Duel" mission as a single star with no planets and beat it in under 3 minutes. 
+
+objective_imlate_name						:	I'm Late!
+objective_imlate_description				:	Complete the first part of the "Concert" mission in under 1 minute.
+
+objective_phantom_name						:	Planetary Soloist
+objective_phantom_description				:	Complete the second part of the "Concert" mission with no evolved life on your planet.
+
+objective_kitties_name						:	Why did you kill me?
+objective_kitties_description				:	Why?
+
+objective_lost_name							:	Get Lost
+objective_lost_description					:	Get Lost.
+
+objective_grindstar_name					:	Grind Star
+objective_grindstar_description				:	Make a 40 star system.
+
+objective_idontsuck_name					:	Dude, I Don't Suck!
+objective_idontsuck_description				:	Beat all the missions without using Physics or God options.
+
+objective_darkchampion_name					:	Dark Champion
+objective_darkchampion_description			:	Beat the final boss as a dark matter star without using Physics or God options.
+
+objective_masterthief_name					:	Master Thief
+objective_masterthief_description			:	Steal 10 planets on the "Planet Stealer" challenge mission.
+
+objective_challengenovice_name				:	Challenge Novice
+objective_challengenovice_description		:	Complete every challenge mission with any score.
+
+objective_challengepro_name					:	Challenge Pro
+objective_challengepro_description			:	Complete every challenge mission with a hard level score.
+
+objective_snowfight_name					:	Snowflake Star
+objective_snowfight_description				:	Get 4 points in the star challenge mission "Snowball Fight".
+
+
+
+// ~~~~~~~~~~~~~~~~~~~~~  Stats ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+stat_time_name					:	Play Time
+stat_traveldistance_name		:	Distance Travelled
+
+stat_asteroidsdestroyed_name	:	Asteroids Destroyed
+stat_planetsdestroyed_name		:	Planets Destroyed
+stat_starsdestroyed_name		:	Stars Destroyed
+
+stat_shipsdestroyedbyyourlife_name		:	Ships Destroyed by Your Life
+stat_mostasteroidsaroundplanet_name		:	Most Asteroids Around your Planet
+stat_fastestspeedcycle_name				:	Fastest Speed Cycle Time
+
+stat_largestMultiStarSystem_name		:	Largest Multi-Star System
+
+
+
+
+

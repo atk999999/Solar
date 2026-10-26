@@ -1,0 +1,425 @@
+{
+  "apk_sha256": "255a068554899e9500e846fdefb40682b11e1656e5cfcc98e2684dac5a5cad4e",
+  "entries": [
+    {
+      "path": "META-INF/MANIFEST.MF",
+      "size": 8301,
+      "sha256": "fc24b2933d84a4ded1a6f7f89c2a1f0675c48ab34fdd45d31cb4b5238f5c05d1"
+    },
+    {
+      "path": "META-INF/MURUDAI.SF",
+      "size": 8422,
+      "sha256": "7bca04e3646eb4cd29ba70ab757347aabf91ffd906824f8fb3e34e252dd42995"
+    },
+    {
+      "path": "META-INF/MURUDAI.RSA",
+      "size": 1318,
+      "sha256": "1a831d96b5b70f77b0ae5bfd8b986d943437bde1769c6bc9ff78caf1035e48ae"
+    },
+    {
+      "path": "assets/Languages/strung.en.txt",
+      "size": 45942,
+      "sha256": "01418490c94d50f57ae280803bbedc1540b21481267929a14999e5e9653c0599"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Adrift.ogg",
+      "size": 3540850,
+      "sha256": "d88c7528f2faa3bec04bbd3cda03b5c1bbe2c6e2aa81a22107c032f01ece8fc1"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Asteroid - Snag 1 monoaudio.wav",
+      "size": 247050,
+      "sha256": "b7599c0af448dcaf03fa45b9b0358c71e74e1f2ba030e3ebb8b5acdef6b8dba2"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Asteroid Absorbed_20 monoaudio.wav",
+      "size": 31990,
+      "sha256": "3ea6ddbcaaae59f9ee547576ee81ff2718006fe3b0e61be8fe672585c117db36"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Black Hole loop monoaudio.wav",
+      "size": 303040,
+      "sha256": "78e7d8f67123f1e749a5372cc03ff9ea0f7120fc888f5381f0cbc782c955945e"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Explosion 1 monoaudio.wav",
+      "size": 176932,
+      "sha256": "bf6e4ec9f12494a2570768f59b02e83c0e30930618f7c60adc49fd7abccc57c0"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Explosion 2 monoaudio.wav",
+      "size": 99632,
+      "sha256": "597a053d3e3e16123e5f7f4892d92bdf5e561e1a8910a0f6caaf0219fa642e25"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Explosion Star monoaudio.wav",
+      "size": 207252,
+      "sha256": "9db773c7fa5dd94e7ddf3b8d141781aee04a0e91a050a37c26b33043a92284fc"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Impact - Asteroid Asteroid monoaudio.wav",
+      "size": 97394,
+      "sha256": "2066f8f3f828cae87eee30a52981b0e5c32fd231dafdc47d96629f431f57dfb8"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Kitty monoaudio.wav",
+      "size": 115998,
+      "sha256": "9d936fb494943260cae3601c93e12ecb869bcc46e5bb2abbfaeeca726d43c84d"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Missile Launch monoaudio.wav",
+      "size": 75740,
+      "sha256": "d64e0b5e5767d7f1feaa11d24c1c988145ae1d93478d7cfa3fd994ed1ac038fc"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Missle Explode monoaudio.wav",
+      "size": 119180,
+      "sha256": "87c271b1b8d5fdb658cbc97943e4bae8b1e5ddf81fcb1964e5fffc6f0e7cf616"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Planet - Snag 1 monoaudio.wav",
+      "size": 254264,
+      "sha256": "c6fb9d7b7068e4e37fbbcf0a750384897de0d215e14e933141b51c2266232702"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Planet Absorbed_6 monoaudio.wav",
+      "size": 55762,
+      "sha256": "279c8d32ec50af1e902981de13358fd623612d59b3465d4fe3d63fd669c04983"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Player Star Top Speed monoaudio.wav",
+      "size": 303920,
+      "sha256": "c374ce2d2bb4a5762c5eb6eaab22d0e7c8dde998ce747ce88360e3a85e614bd7"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Shields Up monoaudio.wav",
+      "size": 66926,
+      "sha256": "c3b20e588e6be7d74fcaad145ff0d86c22e775ce77d771266996719dc13fe434"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Shields down monoaudio.wav",
+      "size": 35878,
+      "sha256": "34289506db78a3fe7c06962daee5bc21e260fa499f666b9b5ef716354b3cf529"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Ship Deploy monoaudio.wav",
+      "size": 75738,
+      "sha256": "1834fccfce1804489736e90970c26c8b011e98ff0b4b4a70e4efa5fd309483b6"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Ship Explod monoaudio.wav",
+      "size": 77952,
+      "sha256": "eb77f4bde7336ea9cb62a1784d9c702bbdcc93cd12df610922fb97ea48b830b7"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Ship Shoot monoaudio.wav",
+      "size": 16670,
+      "sha256": "1ab82552bc9d5d85eed5b45d7d3041cd4b899b6411ca1cbe51a4d7edfc93f6b1"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Transform - Asteroid to Planet monoaudio.wav",
+      "size": 212066,
+      "sha256": "51e4bd2f85dba6de5ea1bac8148801a74ed9ca0c74657f2238636518dc56ecd9"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/effects/Turret Deploy monoaudio.wav",
+      "size": 151338,
+      "sha256": "0c109226127fcc6e633282ca8ae4497e4ae0c8a35169db039acb3cd47e6806a3"
+    },
+    {
+      "path": "assets/MonoContent/AudioSoundEffect/audio.xml",
+      "size": 7935,
+      "sha256": "a3811c9364440b81462cf5de7f5c7bf8e1498d45aa9be945f6787ec3488851cd"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/Constellations xtend.ogg",
+      "size": 5197891,
+      "sha256": "b1ff84537429d57a1f049090149745e517168e602eddd4c452d5e559a4173dac"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/Discoveries Wave2.ogg",
+      "size": 6168150,
+      "sha256": "66dd3dac05b362e0632ab050ed98eb57107e33ed21cda272ca1f93a99560f7f9"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/Mind Over Metal Theme.ogg",
+      "size": 1623823,
+      "sha256": "4bc8c43f7e9829978ee45daebe6c776cab5f8e202ab0c3181ffc1f689f39f23c"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/ZiS 2 wave.ogg",
+      "size": 1336332,
+      "sha256": "fd1a37bf2fe390f19788d4dfbdf4c88ca3f2a001eac46f3b744c79b650f9ddcf"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/big bang.ogg",
+      "size": 214571,
+      "sha256": "eed2a8294eb22e38107914a4de62b006393b1907086a08a9fe6300ba601229d6"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/big crunch.ogg",
+      "size": 94607,
+      "sha256": "f85209dffc358f0fe467815964e0ccc9ec68a212fba395290972b1575804392a"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/pause.ogg",
+      "size": 354673,
+      "sha256": "c6e8747024049870cb4d55a456ab6a4f22ce0196cb7e5548d80d35ede6d21ab4"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/solar 2 boss v2.ogg",
+      "size": 3030778,
+      "sha256": "3973b1743774a8d13c54b5788ee5f35ad3a41e8058b6a1699e17dbcf1ff50933"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/solar 2 cutscene moar fx.ogg",
+      "size": 1409965,
+      "sha256": "6b6ff8b9da3d392f2df5b380742ce58374f039f213620bb38c114001da085985"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/solar 2 suspense.ogg",
+      "size": 2328312,
+      "sha256": "66d0f449a9f5261f4c3d2e24bddd1986a360fd4a466f705dc2ccea13e6273acf"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Music/solar 2 v3.ogg",
+      "size": 5759644,
+      "sha256": "bfed07292b704ca3ed03fd25260a0cf6381a7182db63085a47df783b94294521"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Sounds/Alarm.ogg",
+      "size": 140279,
+      "sha256": "1991bf4787ca985016e172425c7e3caa2c1dcb797e005d5e50caa970ca05dcbc"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Sounds/Menu - Back.ogg",
+      "size": 20928,
+      "sha256": "1c5dc1b525187b154beb52775d784652b0a13c7a698d1160a864db39985eec2b"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Sounds/Menu - Highlight.ogg",
+      "size": 21362,
+      "sha256": "5690d83539db76c5c66ce7a314d1f355da078b665a0f6131fbecb781008f843f"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Sounds/Menu - Select.ogg",
+      "size": 20204,
+      "sha256": "ea2a8d247d2a1c5987f9fc74c3f413f83ba20ce11a1f6f6f881c6b17ad1f7ab5"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/Sounds/Message Get.ogg",
+      "size": 34451,
+      "sha256": "9a2e8aa96e3193dfe9dc4d2b3215f0888f8df73cc7b994c318f99ee5b21e3384"
+    },
+    {
+      "path": "assets/MonoContent/AudioXACT/noxact.xml",
+      "size": 1471,
+      "sha256": "8d38fd3e1be455d23bcaa7386382d2eeac62c179720f9b2020550b89324f75b3"
+    },
+    {
+      "path": "assets/MonoContent/Backgrounds/backgrounds.xnb",
+      "size": 100754,
+      "sha256": "91de489cad7dce23177591860c07ce52f9a62903407c2b8cdf539a067770760c"
+    },
+    {
+      "path": "assets/MonoContent/Cutscenes/cutscene1.xnb",
+      "size": 268358,
+      "sha256": "2781658fa742f5a157322435564f5a1f16442a2012eac6e82bfda3af61c2c51f"
+    },
+    {
+      "path": "assets/MonoContent/Cutscenes/cutscene2.xnb",
+      "size": 249910,
+      "sha256": "ee60f102efbe102a0c6d9b4210b44ca52ac4d417b4afb35d0c0066beb7f9c072"
+    },
+    {
+      "path": "assets/MonoContent/Cutscenes/cutscene_animation.xml",
+      "size": 83323,
+      "sha256": "5720e3128e80c16d0b69d2bd11191eb600fc64989c07dd0ae8e9bd7143c066c4"
+    },
+    {
+      "path": "assets/MonoContent/Fonts/Venus_10.xnb",
+      "size": 19580,
+      "sha256": "7c248280044bfeb8814f9923f4d6447dcbb55a38a873966a587a44a875fbc501"
+    },
+    {
+      "path": "assets/MonoContent/Fonts/Venus_12.xnb",
+      "size": 22236,
+      "sha256": "34149d1944fd12f8429c3e8e9a05a9aeadb6805d1886fc999881537b9cec3270"
+    },
+    {
+      "path": "assets/MonoContent/Fonts/Venus_14.xnb",
+      "size": 34094,
+      "sha256": "8e858dd9b9e0a6b60980ebff6a9d386817c94be3a3bde3f0327b6f6f6e7d3eae"
+    },
+    {
+      "path": "assets/MonoContent/Fonts/Venus_30.xnb",
+      "size": 72006,
+      "sha256": "8ea1d1f631a320845302f08f58e546eb33fef44eaf3d9aa09b7ed4baf83c5814"
+    },
+    {
+      "path": "assets/MonoContent/Gameplay/gameplay.xnb",
+      "size": 1174774,
+      "sha256": "b8ff10b72ccfbec41c6e3ab6587b9ff1e3c8fc604774467a32e1736516037df0"
+    },
+    {
+      "path": "assets/MonoContent/Menus/menus.xnb",
+      "size": 344232,
+      "sha256": "b1b881533634a1a31915cfb8a3ab37b688ec163c12feac892a1c74f3976ca8f4"
+    },
+    {
+      "path": "assets/MonoContent/Particles/ai_bullet.xnb",
+      "size": 211,
+      "sha256": "3f2169d02dec8aeb03d58b7f80355a52980ed14acd2304b60944328f7c542440"
+    },
+    {
+      "path": "assets/MonoContent/Particles/body_dust.xnb",
+      "size": 1396,
+      "sha256": "513afd5e6d92aad310d7cf7364e354eca73c7346cfddc2ac0393c6f4a76cc2ab"
+    },
+    {
+      "path": "assets/MonoContent/Particles/explosion_particle.xnb",
+      "size": 1426,
+      "sha256": "0af14741886ac8e708756570d743bfb89d5e6d21cc549b30fbe14c3fe28f459e"
+    },
+    {
+      "path": "assets/MonoContent/Particles/fragment.xnb",
+      "size": 474,
+      "sha256": "8e8f4609772a733c0f944950c4987be6abf6dea1ed18808b539fb398e194b860"
+    },
+    {
+      "path": "assets/MonoContent/Particles/ship_electrics.xnb",
+      "size": 6790,
+      "sha256": "24e742f47cd71d7e00d0a60371d4c32dde2b81f6ee57f51db986e81f5590699f"
+    },
+    {
+      "path": "assets/MonoContent/Particles/ship_smoke.xnb",
+      "size": 1770,
+      "sha256": "1e10e19947d58bbe23fd3a7cf8b3da938672bcad360985be559223f7296daf7f"
+    },
+    {
+      "path": "assets/MonoContent/Particles/ship_spark.xnb",
+      "size": 1774,
+      "sha256": "e81061aaf80003d321248a614348dc1c54578c600c08e2760630e041d21b9d72"
+    },
+    {
+      "path": "assets/MonoContent/PowerAssets/debugFont.xnb",
+      "size": 4958,
+      "sha256": "103e806666b3948c6eb81d28c9cddfe03e4548e3d50fe83864e6cb7f62403f2a"
+    },
+    {
+      "path": "assets/MonoContent/PowerAssets/debugGameFont.xnb",
+      "size": 4960,
+      "sha256": "7c3974f866e53bb313bf5aaad297121a97c82b75eb940ba3e2f8a499f6bc19a7"
+    },
+    {
+      "path": "assets/MonoContent/entity_normal.png",
+      "size": 2091,
+      "sha256": "a06795509d8929cd72d4f44ce0c9f0a96605a846bce6d2a5a14d12f06d06a3d8"
+    },
+    {
+      "path": "assets/MonoContent/nebula_full.xnb",
+      "size": 1052602,
+      "sha256": "f88e9f43a0f32b69cf0cda6f4b863e17a71f4546cc3ad693a49483a371ecbd1b"
+    },
+    {
+      "path": "assets/MonoContent/splash_screen.xnb",
+      "size": 3528230,
+      "sha256": "cc65ca8b152978da6d85d7510b4c070f2ee58debd79165b239aaa5919ba33d0c"
+    },
+    {
+      "path": "res/drawable/playicon_144.png",
+      "size": 28836,
+      "sha256": "2cc207b8572d379c8e07cc479de13e7ebd1fd563283420d2e93a1faf07143812"
+    },
+    {
+      "path": "AndroidManifest.xml",
+      "size": 3496,
+      "sha256": "a0aec15a21633d0a913d13f197f2e3e8e6ed46ad394cd36288aee8450c3b2f88"
+    },
+    {
+      "path": "resources.arsc",
+      "size": 576,
+      "sha256": "05da97c51ff7cdeef165d4ab960b14ca1f22afc3e1f93fb26306c42a2e3ddf13"
+    },
+    {
+      "path": "classes.dex",
+      "size": 251380,
+      "sha256": "e52351894087ac99e6a713f557814551bca7ad1e7ad7dd672fb18b2025815556"
+    },
+    {
+      "path": "assemblies/Solar2.Android.dll",
+      "size": 494592,
+      "sha256": "1234175485fa2639e861f9211e5fb19cefe9c7c078ac0cb5306cbd014f713d41"
+    },
+    {
+      "path": "assemblies/Power.Android.dll",
+      "size": 135680,
+      "sha256": "1425095396214c83619d142a3d522671895c947568984f0301b588d10d7e7154"
+    },
+    {
+      "path": "assemblies/PowerRuntime.Android.dll",
+      "size": 10240,
+      "sha256": "c21005bf4ebdce672502aebac0a7547657ce35dceb43c68592bf83206d9b7451"
+    },
+    {
+      "path": "assemblies/EasyStorage.Android.dll",
+      "size": 27136,
+      "sha256": "7077173dfa4ebe8b0a2777f633a95ec552c8e2bd1bc9e5b7aca2373ad0d64fab"
+    },
+    {
+      "path": "assemblies/MonoGame.Framework.dll",
+      "size": 687104,
+      "sha256": "bc2d39042cecfde6ab62868f668866cd642b8431e82369e2c03a1ecbfeb327e9"
+    },
+    {
+      "path": "assemblies/Lidgren.Network.Android.dll",
+      "size": 120832,
+      "sha256": "e51ca47c34ce20bfe8bb160390a74126f679a80997020627187b0e262d48772d"
+    },
+    {
+      "path": "assemblies/mscorlib.dll",
+      "size": 1373184,
+      "sha256": "3b6f02ccd89c6b8ffbb3c5541b35d5df111d002884dea9334bd0af8e81bed8aa"
+    },
+    {
+      "path": "assemblies/System.dll",
+      "size": 434176,
+      "sha256": "ad919ab677abff1293e38e3326f4eb27e6782bb6dda8225294b00f9835ac865a"
+    },
+    {
+      "path": "assemblies/Mono.Security.dll",
+      "size": 167936,
+      "sha256": "1b369348a8d1c122bf4fa8ebb3415754cbcf1e3c1b26d4b33aec7a1a25875236"
+    },
+    {
+      "path": "assemblies/Mono.Android.dll",
+      "size": 749568,
+      "sha256": "f2a5cf775f9c6640eff010b2aac69ed6af168f4605d95d4073a0368aabded6b8"
+    },
+    {
+      "path": "assemblies/System.Xml.dll",
+      "size": 588800,
+      "sha256": "592856b35448d99b8e8306f98433faafbdc17254bfb47953591148cee7cf2e30"
+    },
+    {
+      "path": "assemblies/System.Core.dll",
+      "size": 34816,
+      "sha256": "885e87a528452b998a2e706751783c16aef16ae40aca551d0a6da16fa620b261"
+    },
+    {
+      "path": "assemblies/OpenTK.dll",
+      "size": 422912,
+      "sha256": "f6c28483dc61f468d86bbdad66454ad2f1053d2796283daaa1e9d9b80e6f6cad"
+    },
+    {
+      "path": "assemblies/System.Runtime.Serialization.dll",
+      "size": 7680,
+      "sha256": "3bb4196f68eb1efec8c942282edae0d8adbcfafb47d40bfc031d21fccd604440"
+    },
+    {
+      "path": "lib/armeabi-v7a/libmonodroid.so",
+      "size": 2887436,
+      "sha256": "44ccb7309f354067e87b3f58cbd00108f634b532b2a5cb43460f3211bbaad739"
+    }
+  ]
+}

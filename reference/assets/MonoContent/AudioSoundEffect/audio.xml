@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PowerRuntime.WaveSheetContent">
+    <!-- Provides a basic list of wavs to load into the game including a name to identify them, 
+	the link to the wav and how many instances of this sound effect should be loaded. 
+	Runtime things such as pitch, volume, 3d effects, etc. are done with scripting in the code -->
+    <SheetName>audio</SheetName>
+    <AudioItems>
+				
+      <!--  ~~~~~~~  ABSORBED ~~~~~~~~~~ -->
+      <Item>
+        <Name>absorbed_asteroid</Name>
+        <Link>AudioSoundEffect\effects\Asteroid Absorbed_20 monoaudio</Link>
+        <NumInstances>6</NumInstances>
+      </Item>
+      <Item>
+        <Name>absorbed_blackhole</Name>
+        <Link>AudioSoundEffect\effects\Asteroid Absorbed_20 monoaudio</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+      <Item>
+        <Name>absorbed_planet</Name>
+        <Link>AudioSoundEffect\effects\Asteroid Absorbed_20 monoaudio</Link>
+        <NumInstances>4</NumInstances>
+      </Item>
+      <Item>
+        <Name>absorbed_ship</Name>
+        <Link>AudioSoundEffect\effects\Asteroid Absorbed_20 monoaudio</Link>
+        <NumInstances>4</NumInstances>
+      </Item>
+      <Item>
+        <Name>absorbed_star</Name>
+        <Link>AudioSoundEffect\effects\Asteroid Absorbed_20 monoaudio</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+      
+      <!--  ~~~~~~~  Collision ~~~~~~~~~~ -->
+      
+      <Item>
+        <Name>collision_asteroid_asteroid</Name>
+        <Link>AudioSoundEffect\effects\Impact - Asteroid Asteroid monoaudio</Link>
+        <NumInstances>6</NumInstances>
+      </Item>
+      <Item>
+        <Name>collision_planet_asteroid</Name>
+        <Link>AudioSoundEffect\effects\Explosion 2 monoaudio</Link>
+        <NumInstances>3</NumInstances>
+      </Item>
+      <Item>
+        <Name>collision_planet_planet</Name>
+        <Link>AudioSoundEffect\effects\Explosion 1 monoaudio</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+      <Item>
+        <Name>collision_star_asteroid</Name>
+        <Link>AudioSoundEffect\effects\Explosion 2 monoaudio</Link>
+        <NumInstances>3</NumInstances>
+      </Item>
+      <Item>
+        <Name>collision_star_planet</Name>
+        <Link>AudioSoundEffect\effects\Explosion 1 monoaudio</Link>
+        <NumInstances>3</NumInstances>
+      </Item>
+      <Item>
+        <Name>collision_star_star</Name>
+        <Link>AudioSoundEffect\effects\Explosion 1 monoaudio</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+      
+      <!--  ~~~~~~~  Explode ~~~~~~~~~~ -->
+      
+      <Item>
+        <Name>explode_asteroid</Name>
+        <Link>AudioSoundEffect\effects\Explosion 2 monoaudio</Link>
+        <NumInstances>6</NumInstances>
+      </Item>
+      <Item>
+        <Name>explode_aura</Name>
+        <Link>AudioSoundEffect\effects\Ship Explod monoaudio</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+      <Item>
+        <Name>explode_capital</Name>
+        <Link>AudioSoundEffect\effects\Ship Explod monoaudio</Link>
+        <NumInstances>3</NumInstances>
+      </Item>
+      <Item>
+        <Name>explode_heavy</Name>
+        <Link>AudioSoundEffect\effects\Ship Explod monoaudio</Link>
+        <NumInstances>3</NumInstances>
+      </Item>
+      <Item>
+        <Name>explode_missile</Name>
+        <Link>AudioSoundEffect\effects\Missle Explode monoaudio</Link>
+        <NumInstances>6</NumInstances>
+      </Item>
+      <Item>
+        <Name>explode_planet</Name>
+        <Link>AudioSoundEffect\effects\Explosion 1 monoaudio</Link>
+        <NumInstances>6</NumInstances>
+      </Item>
+      <Item>
+        <Name>explode_star</Name>
+        <Link>AudioSoundEffect\effects\Explosion Star monoaudio</Link>
+        <NumInstances>8</NumInstances>
+      </Item>
+      <Item>
+        <Name>explode_striker</Name>
+        <Link>AudioSoundEffect\effects\Ship Explod monoaudio</Link>
+        <NumInstances>6</NumInstances>
+      </Item>
+      
+      <!--  ~~~~~~~~  LOOP ~~~~~~~~~ -->
+      
+      <Item>
+        <Name>loop_blackhole</Name>
+        <Link>AudioSoundEffect\effects\Black Hole loop monoaudio</Link>
+        <NumInstances>8</NumInstances>
+      </Item>
+      <Item>
+        <Name>loop_star</Name>
+        <Link>AudioSoundEffect\effects\Player Star Top Speed monoaudio</Link>
+        <NumInstances>14</NumInstances>
+      </Item>
+      
+      <!--  ~~~~~~~~  ORBIT ~~~~~~~~~ -->
+      
+      <Item>
+        <Name>orbit_planet_to_asteroid</Name>
+        <Link>AudioSoundEffect\effects\Planet - Snag 1 monoaudio</Link>
+        <NumInstances>8</NumInstances>
+      </Item>
+      <Item>
+        <Name>orbit_star_to_planet</Name>
+        <Link>AudioSoundEffect\effects\Asteroid - Snag 1 monoaudio</Link>
+        <NumInstances>6</NumInstances>
+      </Item>
+      
+      <!--  ~~~~~~~~  SHIELD ~~~~~~~~~ -->
+      
+      <Item>
+        <Name>shield_powerdown</Name>
+        <Link>AudioSoundEffect\effects\Shields down monoaudio</Link>
+        <NumInstances>4</NumInstances>
+      </Item>
+      <Item>
+        <Name>shield_powerup</Name>
+        <Link>AudioSoundEffect\effects\Shields Up monoaudio</Link>
+        <NumInstances>4</NumInstances>
+      </Item>
+      
+      <!--  ~~~~~~~~  SHOOT ~~~~~~~~~ -->
+      
+      <Item>
+        <Name>shoot_aura</Name>
+        <Link>AudioSoundEffect\effects\Ship Shoot monoaudio</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+      <Item>
+        <Name>shoot_capital</Name>
+        <Link>AudioSoundEffect\effects\Missile Launch monoaudio</Link>
+        <NumInstances>4</NumInstances>
+      </Item>
+      <Item>
+        <Name>shoot_heavy</Name>
+        <Link>AudioSoundEffect\effects\Ship Shoot monoaudio</Link>
+        <NumInstances>10</NumInstances>
+      </Item>
+      <Item>
+        <Name>shoot_striker</Name>
+        <Link>AudioSoundEffect\effects\Ship Shoot monoaudio</Link>
+        <NumInstances>10</NumInstances>
+      </Item>
+      <Item>
+        <Name>shoot_turret</Name>
+        <Link>AudioSoundEffect\effects\Ship Shoot monoaudio</Link>
+        <NumInstances>10</NumInstances>
+      </Item>
+      
+      <!--  ~~~~~~~~  SPAWNED ~~~~~~~~~ -->
+      
+      <Item>
+        <Name>spawned_aura</Name>
+        <Link>AudioSoundEffect\effects\Ship Deploy monoaudio</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+      <Item>
+        <Name>spawned_capital</Name>
+        <Link>AudioSoundEffect\effects\Ship Deploy monoaudio</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+      <Item>
+        <Name>spawned_heavy</Name>
+        <Link>AudioSoundEffect\effects\Ship Deploy monoaudio</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+      <Item>
+        <Name>spawned_striker</Name>
+        <Link>AudioSoundEffect\effects\Ship Deploy monoaudio</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+      <Item>
+        <Name>spawned_turret</Name>
+        <Link>AudioSoundEffect\effects\Turret Deploy monoaudio</Link>
+        <NumInstances>2</NumInstances>
+      </Item>
+      
+      <!--  ~~~~~~~~  TRANSFORM ~~~~~~~~~ -->
+      
+      <Item>
+        <Name>transform_asteroid_to_planet</Name>
+        <Link>AudioSoundEffect\effects\Transform - Asteroid to Planet monoaudio</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+      <Item>
+        <Name>transform_planet_to_star</Name>
+        <Link>AudioSoundEffect\effects\Transform - Asteroid to Planet monoaudio</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+      <Item>
+        <Name>transform_star_to_blackhole</Name>
+        <Link>AudioSoundEffect\effects\Transform - Asteroid to Planet monoaudio</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+      
+      <!--  ~~~~~~~~  SPECIAL ~~~~~~~~~ -->
+      
+      <Item>
+        <Name>mission_kittyplanetdestroyed</Name>
+        <Link>AudioSoundEffect\effects\Kitty monoaudio</Link>
+        <NumInstances>1</NumInstances>
+      </Item>
+	  	  
+    </AudioItems>
+  </Asset>
+</XnaContent>

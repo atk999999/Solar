@@ -1,0 +1,3369 @@
+<XnaContent>
+<Asset Type="PowerRuntime.FlashAnimationContent">
+<Timeline>
+<TotalFrames>3215</TotalFrames>
+<Layers>
+<Layer>
+	<Name>background</Name>
+	<TotalFrames>3215</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2494</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2494</StartFrame>
+	<Duration>721</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>background</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>0 0 0 0 25.6 14.4</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>fog</Name>
+	<TotalFrames>3215</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2309</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2309</StartFrame>
+	<Duration>278</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2587</StartFrame>
+	<Duration>205</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>symbols_background_loop</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>loop</Animation>
+	<Values>632.45 370.1 0 0 20.003 19.999</Values>
+	<Color>00ffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2792</StartFrame>
+	<Duration>404</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>symbols_background_loop</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>205</CurrentFrame>
+	<Animation>loop</Animation>
+	<Values>632.6 370.15 0 0 13.495 13.493</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>3196</StartFrame>
+	<Duration>18</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>symbols_background_loop</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>155</CurrentFrame>
+	<Animation>loop</Animation>
+	<Values>632.5 370.1 0 0 0.673 0.673</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>3214</StartFrame>
+	<Duration>1</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>symbols_background_loop</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>408</CurrentFrame>
+	<Animation>loop</Animation>
+	<Values>632.45 370.1 0 0 0.038 0.038</Values>
+	<Color>00ffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>desk</Name>
+	<TotalFrames>3215</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2322</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2322</StartFrame>
+	<Duration>874</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>-100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_container</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>loop</Animation>
+	<Values>639.9 360.5 0 0 4.05 4.05</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>3196</StartFrame>
+	<Duration>18</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_container</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>142</CurrentFrame>
+	<Animation>loop</Animation>
+	<Values>646.85 368.45 29.783 29.794 0.037 0.037</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>3214</StartFrame>
+	<Duration>1</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_container</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>loop</Animation>
+	<Values>646.9 368.5 29.99 29.811 0.003 0.004</Values>
+	<Color>00ffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>monitor</Name>
+	<TotalFrames>3215</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2322</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>monitor_container</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>640 360 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2322</StartFrame>
+	<Duration>874</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>-100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>monitor_container</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>2319</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>640 360 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>3196</StartFrame>
+	<Duration>18</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>monitor_container</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>2599</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>647 368.45 29.769 29.769 0.009 0.009</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>3214</StartFrame>
+	<Duration>1</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>monitor_container</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>647 368.5 29.711 29.82 0.003 0.003</Values>
+	<Color>00ffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+</Layers>
+</Timeline>
+<TimelineLibrary>
+<Timelines>
+<TimelineContent>
+	<Name>symbols_background_loop</Name>
+<Timeline>
+<TotalFrames>454</TotalFrames>
+<Layers>
+<Layer>
+	<Name>Layer 1</Name>
+	<TotalFrames>454</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>453</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>clockwise</TweenRotate>
+	<TweenRotateTimes>1</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>symbols_background</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>0 0 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>453</StartFrame>
+	<Duration>1</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>symbols_background</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>0 0 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>Layer 2</Name>
+	<TotalFrames>454</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>453</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>counter-clockwise</TweenRotate>
+	<TweenRotateTimes>1</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>symbols_background</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>0 0 0 0 1.208 1.208</Values>
+	<Color>99ffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>453</StartFrame>
+	<Duration>1</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>symbols_background</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>0 0 0 0 1.208 1.208</Values>
+	<Color>99ffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+</Layers>
+</Timeline>
+</TimelineContent>
+<TimelineContent>
+	<Name>desk_container</Name>
+<Timeline>
+<TotalFrames>300</TotalFrames>
+<Layers>
+<Layer>
+	<Name>desk legs</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>300</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>desk_legs</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-627.55 164.05 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>desk_legs</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>192.4 164.05 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>desk top</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>300</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>desk_bench</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-681 141.95 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>entity legs</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>300</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_legs</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-182.2 298.9 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>chair base</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>300</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>desk_chair_base</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-417.7 360.9 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>desk_chair_top2</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-245.2 298.45 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>comp</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>300</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>desk_computer</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-170.2 -103.95 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>desk_keyboard</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-280.2 162.05 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>entity head</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>43</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>-100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_head</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-296.7 17.95 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>43</StartFrame>
+	<Duration>7</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_head</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-299.2 13.45 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>50</StartFrame>
+	<Duration>57</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_head</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-299.2 13.45 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>107</StartFrame>
+	<Duration>12</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_head</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-301.2 15.45 4.938 4.938 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>119</StartFrame>
+	<Duration>37</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>-100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_head</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-301.2 15.45 4.938 4.938 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>156</StartFrame>
+	<Duration>28</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_head</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-299.2 15.95 1.011 1.011 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>184</StartFrame>
+	<Duration>77</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>-100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_head</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-299.2 15.95 1.011 1.011 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>261</StartFrame>
+	<Duration>39</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_head</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-296.7 17.95 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>entity top</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>43</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_body</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-448.7 21.15 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>43</StartFrame>
+	<Duration>72</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_body</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-448.7 12.15 0.001 0.001 1 1.022</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>115</StartFrame>
+	<Duration>39</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_body</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-448.7 12.15 0.001 0.001 1 1.022</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>154</StartFrame>
+	<Duration>53</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_body</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-448.7 15.65 0.001 0.001 1 1.022</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>207</StartFrame>
+	<Duration>47</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_body</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-448.7 15.65 0.001 0.001 1 1.022</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>254</StartFrame>
+	<Duration>46</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_body</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-448.7 21.15 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>entity arm</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>43</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_arm</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-170.7 210.05 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>43</StartFrame>
+	<Duration>77</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_arm</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-167.7 205.55 10.973 10.973 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>120</StartFrame>
+	<Duration>34</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_arm</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-167.7 205.55 10.973 10.973 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>154</StartFrame>
+	<Duration>53</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_arm</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-168.2 208.55 -7.502 -7.502 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>207</StartFrame>
+	<Duration>47</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_arm</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-168.2 208.55 -7.502 -7.502 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>254</StartFrame>
+	<Duration>46</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_arm</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-170.7 210.05 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>entity palm</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>43</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-128.2 186.05 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>43</StartFrame>
+	<Duration>7</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-119.2 188.85 2.192 2.192 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>50</StartFrame>
+	<Duration>33</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-119.2 188.85 2.192 2.192 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>83</StartFrame>
+	<Duration>18</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-118.95 188.85 9.176 9.176 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>101</StartFrame>
+	<Duration>19</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-119.2 188.85 2.192 2.192 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>120</StartFrame>
+	<Duration>34</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-119.2 188.85 2.192 2.192 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>154</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-135.65 182.85 2.192 2.192 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>164</StartFrame>
+	<Duration>19</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-135.65 182.85 2.192 2.192 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>183</StartFrame>
+	<Duration>15</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-135.65 182.85 3.417 3.418 1 0.935</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>198</StartFrame>
+	<Duration>9</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-135.65 182.85 2.192 2.192 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>207</StartFrame>
+	<Duration>47</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-135.65 182.85 2.192 2.192 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>254</StartFrame>
+	<Duration>11</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-128.2 186.05 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>265</StartFrame>
+	<Duration>19</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-128.2 186.05 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>284</StartFrame>
+	<Duration>12</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>loop</Animation>
+	<Values>-126.7 187.05 2.448 2.448 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>296</StartFrame>
+	<Duration>4</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashTimelineObjectContent">
+	<Name>desk_hand</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>once</Animation>
+	<Values>-128.2 186.05 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>chair top</Name>
+	<TotalFrames>300</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>300</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>desk_chair_top1</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-438.05 78.45 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+</Layers>
+</Timeline>
+</TimelineContent>
+<TimelineContent>
+	<Name>desk_hand</Name>
+<Timeline>
+<TotalFrames>51</TotalFrames>
+<Layers>
+<Layer>
+	<Name>entity palm</Name>
+	<TotalFrames>51</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>51</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_palm</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-2.15 -2.5 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>entity finger5</Name>
+	<TotalFrames>51</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>15</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger5</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>12.35 -1.1 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>15</StartFrame>
+	<Duration>9</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger5</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>13.85 -1.6 3.578 3.578 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>24</StartFrame>
+	<Duration>27</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger5</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>12.35 -1.1 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>entity finger4</Name>
+	<TotalFrames>51</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>6</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger4</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>17.85 -9 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>6</StartFrame>
+	<Duration>8</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger4</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>17.35 -8.5 8.3 8.3 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>14</StartFrame>
+	<Duration>37</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger4</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>17.85 -9 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>entity finger3</Name>
+	<TotalFrames>51</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>12</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger3</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>8.5 -16.5 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>12</StartFrame>
+	<Duration>8</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger3</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>8 -16 3.303 3.303 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>20</StartFrame>
+	<Duration>31</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger3</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>8.5 -16.5 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>entity finger2</Name>
+	<TotalFrames>51</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger2</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-5 -17.5 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2</StartFrame>
+	<Duration>7</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger2</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-5.5 -18 7.051 7.051 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>9</StartFrame>
+	<Duration>15</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger2</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-5 -17.5 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>24</StartFrame>
+	<Duration>6</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger2</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-5.5 -18 13.985 13.985 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>30</StartFrame>
+	<Duration>21</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>entity_finger2</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-5 -17.5 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+</Layers>
+</Timeline>
+</TimelineContent>
+<TimelineContent>
+	<Name>monitor_container</Name>
+<Timeline>
+<TotalFrames>2655</TotalFrames>
+<Layers>
+<Layer>
+	<Name>fade</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>180</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>background</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-643.4 -362.9 0 0 25.733 14.542</Values>
+	<Color>00000000</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>180</StartFrame>
+	<Duration>2475</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>background</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-643.4 -362.9 0 0 25.733 14.542</Values>
+	<Color>ff000000</Color>
+	<Sheet>cutscene1</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>gameover2</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>24</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>game_over</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-12.65 4.85 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>24</StartFrame>
+	<Duration>57</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>game_over</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-12.65 4.85 0 0 1.07 1.07</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>81</StartFrame>
+	<Duration>2574</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>game_over</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-12.65 4.85 0 0 1.21 1.21</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>gameover1</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>81</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>game_over</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-12.65 4.85 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>81</StartFrame>
+	<Duration>213</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>game_over</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-12.65 4.85 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>294</StartFrame>
+	<Duration>11</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>game_over</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-12.65 4.85 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>305</StartFrame>
+	<Duration>2350</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>game_over</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-12.65 4.85 0 0 1 1</Values>
+	<Color>66ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>im background</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>299</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>299</StartFrame>
+	<Duration>56</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_popup</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-466 -273.65 0 0 0.218 0.019</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>355</StartFrame>
+	<Duration>48</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>403</StartFrame>
+	<Duration>55</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_popup</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-466 -273.65 0 0 0.218 0.019</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>458</StartFrame>
+	<Duration>52</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>510</StartFrame>
+	<Duration>51</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_popup</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-466 -273.65 0 0 0.218 0.019</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>561</StartFrame>
+	<Duration>46</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>607</StartFrame>
+	<Duration>38</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_popup</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-466 -273.65 0 0 0.218 0.019</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>645</StartFrame>
+	<Duration>36</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>100</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_popup</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-466 -273.65 0 0 1 0.019</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>681</StartFrame>
+	<Duration>1974</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_popup</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-466 -273 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>icon8</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2597</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2597</StartFrame>
+	<Duration>11</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_entity</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 178.35 0 0 1 0.012</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2608</StartFrame>
+	<Duration>47</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_entity</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 178.35 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>im8</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2597</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2597</StartFrame>
+	<Duration>11</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text8</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 179.95 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2608</StartFrame>
+	<Duration>47</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text8</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 179.95 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>icon7</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2298</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2298</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_dude</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 115.35 0 0 1 0.012</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2308</StartFrame>
+	<Duration>347</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_dude</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 115.35 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>im7</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2298</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2298</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text7</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 123.3 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2308</StartFrame>
+	<Duration>347</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text7</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 123.3 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>icon6</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2000</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2000</StartFrame>
+	<Duration>11</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_entity</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 54.35 0 0 1 0.012</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2011</StartFrame>
+	<Duration>644</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_entity</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 54.35 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>im6</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>2000</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2000</StartFrame>
+	<Duration>11</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text6</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 56.35 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>2011</StartFrame>
+	<Duration>644</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text6</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 56.35 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>icon5</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>1796</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1796</StartFrame>
+	<Duration>9</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_dude</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -2.65 0 0 1 0.012</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1805</StartFrame>
+	<Duration>850</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_dude</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -2.65 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>im5</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>1796</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1796</StartFrame>
+	<Duration>9</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text5</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -0.15 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1805</StartFrame>
+	<Duration>850</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text5</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -0.15 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>icon4</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>1401</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1401</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_entity</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -71.65 0 0 1 0.012</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1411</StartFrame>
+	<Duration>1244</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_entity</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -71.65 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>im4</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>1401</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1401</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text4</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -71 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1411</StartFrame>
+	<Duration>1244</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text4</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -71 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>icon3</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>1198</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1198</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_dude</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -142.65 0 0 1 0.012</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1208</StartFrame>
+	<Duration>1447</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_dude</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -142.65 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>im3</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>1198</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1198</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text3</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -138 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>1208</StartFrame>
+	<Duration>1447</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text3</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -138 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>icon2</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>900</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>900</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_entity</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -184.65 0 0 1 0.012</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>910</StartFrame>
+	<Duration>1745</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_entity</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -184.65 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>im2</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>900</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>900</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text2</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -182 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>910</StartFrame>
+	<Duration>1745</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text2</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -182 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>icon1</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>700</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>700</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_dude</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -229.65 0 0 1 0.012</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>710</StartFrame>
+	<Duration>1945</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_dude</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-395.95 -229.65 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+<Layer>
+	<Name>im1</Name>
+	<TotalFrames>2655</TotalFrames>
+	<KeyFrames>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>0</StartFrame>
+	<Duration>700</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>700</StartFrame>
+	<Duration>10</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>true</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text1</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -227.15 0 0 1 1</Values>
+	<Color>00ffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	<KeyFrame>
+	<Name></Name>
+	<StartFrame>710</StartFrame>
+	<Duration>1945</Duration>
+	<SoundName></SoundName>
+	<MetaData></MetaData>
+	<HasTween>false</HasTween>
+	<TweenEasing>0</TweenEasing>
+	<TweenRotate>auto</TweenRotate>
+	<TweenRotateTimes>0</TweenRotateTimes>
+	<TweenScale>true</TweenScale>
+	<Objects>
+<Object Type="PowerRuntime.FlashGraphicContent">
+	<Name>im_text1</Name>
+	<MetaName></MetaName>
+	<CurrentFrame>0</CurrentFrame>
+	<Animation>none</Animation>
+	<Values>-318 -227.15 0 0 1 1</Values>
+	<Color>ffffffff</Color>
+	<Sheet>cutscene2</Sheet>
+</Object>
+	</Objects>
+	</KeyFrame>
+	</KeyFrames>
+</Layer>
+</Layers>
+</Timeline>
+</TimelineContent>
+</Timelines>
+</TimelineLibrary>
+<PolygonLibrary>
+<Polygons>
+</Polygons>
+</PolygonLibrary>
+</Asset>
+</XnaContent>
